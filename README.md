@@ -13,7 +13,7 @@ You must create a folder "trigger-index" at first.
   To the extent possible under law,
   <a rel="dct:publisher"
      href="http://github.com/einse">
-    <span property="dct:title">Sergey Arsentyev</span></a>
+    <span property="dct:title">Sergey Arsentev</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">Trigger</span>.
 This work is published from:
